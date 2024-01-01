@@ -19,8 +19,8 @@
 // console.log(password)
 // /* haan bhai ye hai* */
 
-
-
+console.log("i am index.js")
+document.getElementById("on").innerHTML="hello world"
 
 
 
